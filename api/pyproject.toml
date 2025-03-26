@@ -1,0 +1,8 @@
+[project]
+name = "literag_api"
+version = "0.1.0"
+description = "一个个人使用的rag，用于辅助自己"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[all]>=0.115.12",
+]
